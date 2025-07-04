@@ -1,6 +1,6 @@
-# Flutter
+# DamuCare - Flutter
 
-A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
+DamuCare is a mobile app designed to guide and support first-time and regular blood donors through learning about the process, appointment scheduling, and tracking, helping users overcome fear and stay committed to saving lives in Tanzania
 
 ## 📋 Prerequisites
 
@@ -135,8 +135,7 @@ flutter build ios --release
 ```
 
 ## 🙏 Acknowledgments
-- Built with [Rocket.new](https://rocket.new)
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
 
-Built with ❤️ on Rocket.new
+Built by Udoddyz https://www.linkedin.com/in/hashim-mbita
